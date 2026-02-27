@@ -51,6 +51,16 @@ My engineering mindset:
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
 </p>
+
+---
+
+
+## 🏆 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aryan0312&theme=dark&hide_border=true&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" />
+</p>
+
 ---
 
 ## 📊 GitHub Activity
@@ -66,26 +76,4 @@ My engineering mindset:
 
 ---
 
-## 🏆 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aryan0312&theme=dark&hide_border=true&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" />
-</p>
-
----
-
-## 🧭 Engineering Philosophy
-
-Build.  
-Refactor.  
-Optimize.  
-Repeat.  
-
-Systems scale.  
-Skills compound.  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
-</p>

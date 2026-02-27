@@ -17,9 +17,6 @@ My engineering mindset:
 - Keep architecture clean  
 - Let consistency compound  
 
-I focus on backend structure, database design,
-scalable systems, and strong problem-solving foundations.
-
 ---
 
 ## ⚙️ Engineering Stack
@@ -54,25 +51,6 @@ scalable systems, and strong problem-solving foundations.
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
 </p>
-
----
-
-### Core Engineering Strengths
-
-- Backend Architecture  
-- Database Relations & Schema Design  
-- Clean Code & Modular Structure  
-- Data Structures & Algorithms  
-- System-Level Thinking  
-
-## 🧠 Selected Work
-
-• GateLogger  
-• Subscription Management System  
-• AI Experiments  
-• Full-Stack Applications  
-• Hackathon Projects  
-
 ---
 
 ## 📊 GitHub Activity
